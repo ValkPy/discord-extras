@@ -13,7 +13,7 @@ Before performing actions like banning, kicking, or deleting messages, `discord-
 
 Install directly from GitHub:
 
-pip install git+https://github.com/ValkPy/discord-extras.git
+`pip install git+https://github.com/ValkPy/discord-extras.git`
 
 
 ---
